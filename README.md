@@ -42,7 +42,6 @@ Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Nome do Projeto 1</h3>
       <p align="center">
         <a href="https://github.com/Wexxxley/2.LearnExpress-API" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wexxxley&repo=2.LearnExpress-API&theme=dracula&show_owner=true" alt="Card do Projeto 1">
@@ -50,7 +49,6 @@ Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Nome do Projeto 2</h3>
       <p align="center">
         <a href="https://github.com/Wexxxley/01-MuscleFlowApi" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wexxxley&repo=01-MuscleFlowApi&theme=dracula&show_owner=true" alt="Card do Projeto 2">

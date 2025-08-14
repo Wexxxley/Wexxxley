@@ -56,8 +56,9 @@ Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wexxxley&repo=2.LearnExpress-API&theme=dracula&show_owner=true" alt="Card do Projeto 1">
         </a>
       </p>
-    </td>
-    <td width="50%">
+    </td>  
+  </tr>
+   <td width="50%">
       <h3>API sobre uma plataforma de treinos físicos</h3>
       <p align="center">
         <a href="https://github.com/Wexxxley/01-MuscleFlowApi" target="_blank">
@@ -65,6 +66,8 @@ Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC
         </a>
       </p>
     </td>
+  <tr>
+    
   </tr>
 </table>
 

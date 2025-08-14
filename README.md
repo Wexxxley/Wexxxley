@@ -45,7 +45,7 @@ Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC
       <h3>Análise Parlamentar - Câmara Deputados 2024</h3>
       <p align="center">
         <a href="https://github.com/Wexxxley/CamaraDeputadosAPI" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wexxxley&repo=2.LearnExpress-API&theme=dracula&show_owner=true" alt="Card do Projeto 1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wexxxley&repo=CamaraDeputadosAPI&theme=dracula&show_owner=true" alt="Card do Projeto 1">
         </a>
       </p>
     </td>

@@ -41,7 +41,7 @@ Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC
 
 <table>
   <tr>
-     <td width="50%">
+      <td width="50%">
       <h3>Análise Parlamentar - Câmara Deputados 2024</h3>
       <p align="center">
         <a href="https://github.com/Wexxxley/CamaraDeputadosAPI" target="_blank">

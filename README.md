@@ -18,12 +18,11 @@
 
 ### Sobre Mim
 
-Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC) - Campus Quixadá, entusiasta por tecnologia e focado em desenvolvimento **Web Back-End**. Possuo experiência com **.NET**, **Python**, além de sólidos conhecimentos no desenvolvimento de aplicações Back-End.
+Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC) - Campus Quixadá, focado em desenvolvimento **Web Back-End**. Possuo experiências principais com **.NET** e **Python**.
 
 - ⚙️ Experiência no desenvolvimento de APIs RESTful e na integração com diversos bancos de dados.
 - 🐍 No ecossistema Python, trabalho com frameworks como **FastAPI**.
 - 💻 Na plataforma .NET, tenho conhecimento em **C#**, **ASP.NET Core** e **Entity Framework** para criar serviços web.
-- 📍 Atualmente morando em **Quixadá, Ceará, Brasil**.
 
 ---
 

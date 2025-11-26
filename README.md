@@ -36,7 +36,7 @@ Sou estudante de Ciência da Computação na UFC (Campus Quixadá) e Desenvolved
 
 ---
 
-### 🚀 Meus Principais Projetos
+### 🏗️ Meus Principais Projetos
 
 <table>
     <tr>

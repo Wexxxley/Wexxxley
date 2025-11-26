@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Wesley 👋</h1>
 <p align="center">
   <a href="https://github.com/Wexxxley">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&color=348C31&center=true&vCenter=true&width=500&lines=Desenvolvedor+Backend;Python+%26+.NET;Construindo+APIs+robustas" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&color=348C31&center=true&vCenter=true&width=500&lines=Desenvolvedor+Backend;Desenvolvendo+Soluções;Construindo+SOFTWARES+robustos" alt="Typing SVG">
   </a>
 </p>
 

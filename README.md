@@ -23,6 +23,7 @@ Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC
 - ⚙️ Experiência no desenvolvimento de APIs RESTful e na integração com diversos bancos de dados.
 - 🐍 No ecossistema Python, trabalho com frameworks como **FastAPI**.
 - 💻 Na plataforma .NET, tenho conhecimento em **C#**, **ASP.NET Core** e **Entity Framework** para criar serviços web.
+- 👨‍💻 Expandindo conhecimentos para o ecossistema Javascript com **Node.js** e **React**.
 
 ---
 
@@ -30,7 +31,7 @@ Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,dotnet,cs,postgresql,git,vscode,html,css,js,&perline=6" alt="Tecnologias"/>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,python,nodejs,postgresql,html,css,js,react&perline=6" alt="Tecnologias"/>
   </a>
 </p>
 
@@ -39,35 +40,44 @@ Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC
 ### 🚀 Meus Principais Projetos
 
 <table>
-  <tr>
-      <td width="50%">
-      <h3>Análise Parlamentar - Câmara Deputados 2024</h3>
+    <tr>
+    <td width="50%">
+      <h3>Dados Parlamentares</h3>
       <p align="center">
-        <a href="https://github.com/Wexxxley/CamaraDeputadosAPI" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wexxxley&repo=CamaraDeputadosAPI&theme=dracula&show_owner=true" alt="Card do Projeto 1">
+        <a href="https://github.com/Wexxxley/Ferramenta-extracao-visualizacao-dados-parlamentares" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wexxxley&repo=Ferramenta-extracao-visualizacao-dados-parlamentares&theme=dracula&show_owner=true" alt="Ferramenta Dados">
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3>API - Plataforma de cursos</h3>
+      <h3>Amethyst</h3>
       <p align="center">
-        <a href="https://github.com/Wexxxley/2.LearnExpress-API" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wexxxley&repo=2.LearnExpress-API&theme=dracula&show_owner=true" alt="Card do Projeto 2">
-        </a>
-      </p>
-    </td>  
-  </tr>
-   <td width="50%">
-      <h3>API - Plataforma de treinos físicos</h3>
-      <p align="center">
-        <a href="https://github.com/Wexxxley/01-MuscleFlowApi" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wexxxley&repo=01-MuscleFlowApi&theme=dracula&show_owner=true" alt="Card do Projeto 3">
+        <a href="https://github.com/Wexxxley/Amethyst" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wexxxley&repo=Amethyst&theme=dracula&show_owner=true" alt="Amethyst Project">
         </a>
       </p>
     </td>
-  <tr>
-    
   </tr>
+  
+  <tr>
+    <td width="50%">
+      <h3>API - Plataforma de cursos</h3>
+      <p align="center">
+        <a href="https://github.com/Wexxxley/2.LearnExpress-API" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wexxxley&repo=2.LearnExpress-API&theme=dracula&show_owner=true" alt="LearnExpress API">
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>API - Treinos físicos</h3>
+      <p align="center">
+        <a href="https://github.com/Wexxxley/01-MuscleFlowApi" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wexxxley&repo=01-MuscleFlowApi&theme=dracula&show_owner=true" alt="MuscleFlow API">
+        </a>
+      </p>
+    </td>
+  </tr>
+
 </table>
 
 ---
